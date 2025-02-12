@@ -1,0 +1,9 @@
+{
+  "name": "Eventnya.id",
+  "symbol": "EVN",
+  "description": "Eventnya.id token",
+  "image": "https://eventnya.id/images/eventnya-icon.svg",
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility Token" }
+  ]
+}
